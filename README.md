@@ -2,12 +2,34 @@
 
 
 ### 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React" />
+  <img src="https://img.shields.io/badge/-React%20native-000?&logo=React" alt="React" />
+</p>
 
+<br/>
+
+### ⭐ Featured Projects
+- **[Receipify](https://github.com/2yum7/Receipify)**:  A web application that turns your grocery receipts into ultra-simple recipes.
+-  **[Grain](https://2yum7.github.io/grain/)**:  An iOS app for tracking your habits with simple taps.
+
+
+<br/>
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=2yum7&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2yum7&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<br/>
 
 ---
 
-**📫 Reach me at**
+**📫 Connect with me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](
 https://www.linkedin.com/in/ibuki-yamada/) 
