@@ -21,8 +21,8 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=2yum7&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2yum7&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=2yum7&layout=compact&theme=dark&hide=html" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=2yum7&layout=compact&theme=dark&hide=html" alt="GitHub Streak" />
 </p>
 
 <br/>
